@@ -1,0 +1,16 @@
+@media only screen and (min-width: 38rem) {
+    .parent {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        column-gap: 10px;
+    }
+
+    nav ul {
+        display: flex;
+        justify-content: center;
+    }
+
+    nav ul li {
+        flex: 1 1 100%;
+    }
+}
