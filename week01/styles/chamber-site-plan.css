@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    display: block;
+    font-size: 30px;
+}
+
+#colors li {
+    list-style: none;
+}
+
+#a {
+    background-color: #ED6A5A;
+}
+
+#b {
+    background-color: #F4F1BB;
+}
+
+#c {
+    background-color: #9BC1BC;
+}
+
+#d {
+    background-color: #5D576B;
+}
+
+#e {
+    background-color: #E6EBE0;
+}
+
+#fonts #robotoc {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+#fonts #robotom {
+    font-family: "Roboto Mono", sans-serif;
+}
